@@ -43,108 +43,121 @@ jupyter:
 -->
 
 **Details** <br />
-Using IBM Watson Studio and Watson Machine Learning, this code pattern provides an example of data science workflow which attempts to predict the end-of-day value of S&P 500 stocks based on historical data. This pattern includes the data mining process that uses the Quandl API – a marketplace for financial, economic, and alternative data delivered in modern formats for today’s analysts.
+Your Path to AI is a series of workshops to get you started on your path to becoming proficient in AI. Each session consists of important topics in the Data & AI methodology so that you can learn its concepts and what tool IBM provides along with open-source to make your Path to AI easier.
 
-🎓 Learning outcomes
-- Use Jupyter Notebooks in Watson Studio to mine financial data using public APIs.
-- Use specialized Watson Studio tools like Data Refinery to prepare data for model training.
-- Build, train, and save a time series model from extracted data, using open-source Python libraries or the built-in graphical -Modeler Flow in Watson Studio.
-- Interact with IBM Cloud Object Storage to store and access mined and modeled data.
-- Store a model created with Modeler Flow and interact with the Watson Machine Learning service using the Python API.
-- Generate graphical visualizations of time series data using Pandas and Bokeh.
+In this session, which is Part 2 of Your Path to AI series. You will explore tools of IBM for AI which require little to no coding. Learn about the 1st step of Data Science Methodology - Data Collection and Data Cleaning and how easily it can be achieved by using Data Refinery Tool. Explore our data set and generate visualizations to get more insights and relationships within our data and clean our data accordingly and enhance your business by taking quick meaningful decisions.
+
+🌟 Session outcomes
+- Explore IBM Watson.
+- Demo of CloudPak for Data.
+- Data Collection and Cleaning.
+- Data Pre-processing using the Data Refinery tool.
+
+🎓 Agenda
+- Overview of IBM Cloud and Watson
+- Data Cleaning - what, why, how
+- Exploratory Data Analysis (EDA)
+- Q&A
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
+👩‍💻 Who should attend
+- Students who are interested in AI, Data Science but don't know where to start
+- Data Science & AI enthusiasts who want to learn what IBM is doing
+- Professional Developers who want to know more about the world of Data & AI
+- Anyone who wants to do Data Cleaning without code
+
+🍪 How to attend
+- Register on Crowdcast: https://www.crowdcast.io/e/path-to-AI2
+- Open the Crowdcast event link on your browser and enjoy!
+- Sign up for IBM Cloud account: http://ibm.biz/aipath2
+
 🎙Speakers
+- Anam Mahmood, IBM Developer Advocate, https://developer.ibm.com/profiles/anam.mahmood/
 - Mridul Bhandari, IBM Developer Advocate, https://developer.ibm.com/profiles/mridul.bhandari/
-- Anchal Bhalla, Data and AI Technical Specialist, https://developer.ibm.com/profiles/anchal.bhalla/
 
-🎈Prerequisites
-- IBM Cloud Sign-up link - http://ibm.biz/StockMarketWatsonStudio
-- Register for the live event or watch the recording: https://www.crowdcast.io/e/forecast-stock-market
-
-👩‍💻Resources
-- Hands-on - https://ibm.biz/StockMarketWatsonStudioLab
-- GitHub Repository - https://github.com/IBM/watson-stock-market-predictor
-- Survey - https://www.surveymonkey.com/r/JHT3L8Y
+🎈Resources
+- Hands-on - https://developer.ibm.com/technologies/analytics/tutorials/collect-cleanse-and-enhance-your-data/
+- GitHub Repository - https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data
+- Survey - https://www.surveymonkey.com/r/QQM3LHM
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide1.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide1.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide2.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/slide_images/Slide2.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide3.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide3.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide4.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/slide_images/Slide4.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide5.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide5.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide6.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide6.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide7.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide7.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide8.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide8.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide9.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide9.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide10.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide10.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide11.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide11.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide12.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide12.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide13.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide13.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide14.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide14.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide15.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide15.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide16.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide16.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide17.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide17.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide18.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide18.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide19.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide19.png?raw=true)
 
 
 ## License
