@@ -89,7 +89,7 @@ In this session, which is Part 2 of Your Path to AI series. You will explore too
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/slide_images/Slide2.png?raw=true)
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide2.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
