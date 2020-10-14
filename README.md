@@ -17,3 +17,7 @@ When you have completed this tutorial, you will understand how to:
 In this Tutorial we have demonstrated with [Db2 on IBM Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/cpd/svc/db2z/create_database_db2z.html) and [Db2 on Cloud](https://cloud.ibm.com/catalog/services/db2).
 
 1. [IBM Cloud Account](https://ibm.biz/aipath2) – If you prefer to deploy on IBM Cloud
+
+
+Steps
+Following this [tutorial](https://developer.ibm.com/technologies/analytics/tutorials/collect-cleanse-and-enhance-your-data/) you can deploy on either IBM Cloud Pak for Data or IBM Cloud. 
