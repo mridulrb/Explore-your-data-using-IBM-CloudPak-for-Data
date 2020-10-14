@@ -11,3 +11,9 @@ When you have completed this tutorial, you will understand how to:
 - Create a connection with any database and Watson Data Refinery
 - Prepare datasets specific to your ML Model
 - Save the datasets in any database of your choice
+
+## Prerequisites
+1. Any SQL Database.
+In this Tutorial we have demonstrated with [Db2 on IBM Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/cpd/svc/db2z/create_database_db2z.html) and [Db2 on Cloud](https://cloud.ibm.com/catalog/services/db2).
+
+1. [IBM Cloud Account]() – If you prefer to deploy on IBM Cloud
