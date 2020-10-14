@@ -159,6 +159,58 @@ In this session, which is Part 2 of Your Path to AI series. You will explore too
 
 ![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide19.png?raw=true)
 
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide20.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide21.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide22.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide23.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide24.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide25.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide26.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide27.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide28.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide29.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide30.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide31.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Explore-your-data-using-IBM-CloudPak-for-Data/blob/master/images/slide_images/Slide32.png?raw=true)
+
 
 ## License
 
